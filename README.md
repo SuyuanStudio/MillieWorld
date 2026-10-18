@@ -22,3 +22,11 @@ Deliverables include original character sheets, worldbuilding stories, illustrat
 Friendly creative exchanges are welcome in this repository. Plagiarism, unauthorized reproduction of works and online harassment are prohibited.
 Any separatist remarks involving Hong Kong, Macao and Taiwan, content that whitewashes Japan's invasion of China, distorts historical facts, malicious slander, or spam ads in issues or comments will not be tolerated. Violators will be blocked and reported directly.
 This repository is publicly accessible worldwide. We maintain a positive, fact-respecting communication environment.
+
+#关于版权 About the Copyrights
+所有仓库世界观、角色人设等文字内容遵循 MIT License。
+所有插画、角色OC图像，**不适用所有仓库根目录MIT协议**，全部著作权保留。
+未经许可，禁止商用、二次修改、搬运，禁止将图像用于AI模型训练、数据集采集。
+The worldbuilding and character text content of this repository are under MIT License.
+All illustrations and OC character visuals are NOT covered by the MIT license, all rights reserved.
+Commercial use, modification, reposting, or use for AI training/dataset collection without permission is prohibited.
